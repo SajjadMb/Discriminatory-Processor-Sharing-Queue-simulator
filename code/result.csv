@@ -1,0 +1,7 @@
+Waiting_Time_Type,Teta,Mu,Lambda,Analysis_type,PB,PD,PD1,PD2
+Constant,2,1,5,Simulation,0.085443,0.714954,0.381854,0.3331
+Exponential,2,1,5,Simulation,0.05756,0.742783,0.392849,0.349934
+Constant,2,1,10,Simulation,0.409561,0.490729,0.259563,0.231166
+Exponential,2,1,10,Simulation,0.369393,0.53035,0.278236,0.252114
+Constant,2,1,15,Simulation,0.587964,0.345627,0.182136,0.163491
+Exponential,2,1,15,Simulation,0.557896,0.375568,0.196692,0.178876
